@@ -1,5 +1,4 @@
-from src.transformations import transform_data
-from src.transformations import calculate_total
+from src.transformations import calculate_total, transform_data
 
 
 def test_transform_data():
