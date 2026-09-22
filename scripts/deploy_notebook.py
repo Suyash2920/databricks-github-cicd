@@ -1,6 +1,7 @@
 import os
-import requests
 import sys
+
+import requests
 
 
 HOST = os.environ["DATABRICKS_HOST"].rstrip("/")
